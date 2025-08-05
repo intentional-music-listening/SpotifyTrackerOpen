@@ -1,0 +1,14 @@
+patient_id,session_start_time,artist_name,album_name,track_name,total_track_duration,start_position_seconds,start_date,end_date,track_listening_duration,total_track_listening_duration,end_reason,device_name
+PS02,12h-34m,Clipse,Let God Sort Em Out,Chains & Whips,4:03.909,2:08.180,12:34 - 07/16/2025,12:35 - 07/16/2025,1:55.043,1:55.043,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Let God Sort Em Out,P.O.V.,4:18.029,0:00.220,12:35 - 07/16/2025,12:38 - 07/16/2025,3:01.131,3:01.131,skipped,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,We Got It For Cheap (Intro),3:41.889,0:00.670,12:38 - 07/16/2025,12:42 - 07/16/2025,3:41.404,3:41.404,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Momma I'm So Sorry,3:57.409,0:01.169,12:42 - 07/16/2025,12:46 - 07/16/2025,3:56.516,3:56.516,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Mr. Me Too,3:41.909,0:00.300,12:46 - 07/16/2025,12:50 - 07/16/2025,3:42.463,3:42.463,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Wamp Wamp (What It Do) (feat. Slim Thug),4:00.250,0:00.850,12:50 - 07/16/2025,12:54 - 07/16/2025,4:00.385,4:00.385,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Ride Around Shining (feat. Ab-Liva),3:56.229,0:00.970,12:54 - 07/16/2025,12:58 - 07/16/2025,3:55.466,3:55.466,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Dirty Money,3:46.509,0:00.230,12:58 - 07/16/2025,13:02 - 07/16/2025,3:46.766,3:46.766,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Hello New World,4:12.110,0:00.450,13:02 - 07/16/2025,13:06 - 07/16/2025,4:12.067,4:12.067,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Keys Open Doors,3:19.430,0:00.460,13:06 - 07/16/2025,13:07 - 07/16/2025,1:38.974,1:38.974,seeked_forward,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Keys Open Doors,3:19.430,1:39.430,13:07 - 07/16/2025,13:09 - 07/16/2025,1:40.654,3:19.628,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Ain't Cha (feat. Re-Up Gang),4:41.769,0:00.660,13:09 - 07/16/2025,13:14 - 07/16/2025,4:41.914,4:41.914,track_end,Vasiliki’s MacBook Air
+PS02,12h-34m,Clipse,Hell Hath No Fury,Trill,4:43.990,0:00.790,13:14 - 07/16/2025,13:14 - 07/16/2025,0:11.473,0:11.473,long_pause,Vasiliki’s MacBook Air

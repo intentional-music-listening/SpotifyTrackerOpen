@@ -1,0 +1,16 @@
+{
+    "PS01": {
+        "NAME": "John Doe",
+        "GROUP": "A",
+        "SPOTIPY_CLIENT_ID": "...",
+        "SPOTIPY_CLIENT_SECRET": "...",
+        "SPOTIPY_REDIRECT_URI": "..."
+    },
+    "PS02": {
+        "NAME": "Jane Doe",
+        "GROUP": "B",
+        "SPOTIPY_CLIENT_ID": "...",
+        "SPOTIPY_CLIENT_SECRET": "...",
+        "SPOTIPY_REDIRECT_URI": "..."
+    }
+}
