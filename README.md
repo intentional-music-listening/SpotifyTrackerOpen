@@ -18,7 +18,6 @@ This script was developed as part of the Intentional Music Listening project to 
 ## Example Workflow
 
 1. Start the script for a specific participant:
-   
    ```bash
    python3 main.py <patient_id> <input_file.json> <output_folder>
    ```
@@ -29,12 +28,8 @@ This script was developed as part of the Intentional Music Listening project to 
    - Pauses, skips, and seeks are recorded automatically
 
 3. When the session ends:
-   - A CSV log as "session_log_[Month-Day]_[Hour-Minutes].csv" is created under:
-   
-    ```bash
-    logs/[patient_id]
-    ```
-
+   - A CSV log named `session_log_[month]-[day]_[hour]-[minutes].csv` is saved under `logs/[patient_id]`.
+     
 4. Example Output:
    - See `SAMPLE_session_log_07-16_12h-34m.csv` for an example of the log format.
 
