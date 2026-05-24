@@ -45,3 +45,9 @@ This script was developed as part of the Intentional Music Listening project to 
 - This repository is provided as a reference
 - API credentials, cache files, and HPC batch scripts are excluded for security
 - The script requires Spotify API credentials and setup to run
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+This project uses the Spotify Web API. Use of Spotify’s API, Spotify Content, Spotify user data, and Spotify trademarks is subject to Spotify’s Developer Terms and Developer Policy. The MIT License applies only to the original code in this repository.
